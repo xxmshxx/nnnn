@@ -1,0 +1,64 @@
+Uri: https://1wgtqa.life/
+File Name: C:\Downloaded Web Sites\1wgtqa.life\index.htm
+Content Type: text/html
+
+Uri: https://1wgtqa.life/core-js/3.33.3/minified.js
+File Name: C:\Downloaded Web Sites\1wgtqa.life\core-js\3.33.3\minified.js
+Content Type: application/javascript
+
+Uri: https://1wgtqa.life/fss/web-app-manifest
+File Name: C:\Downloaded Web Sites\1wgtqa.life\fss\web-app-manifest
+Content Type: application/json
+
+Uri: https://1wgtqa.life/img/icons/favicon-16x16-darkmode.png
+File Name: C:\Downloaded Web Sites\1wgtqa.life\img\icons\favicon-16x16-darkmode.png
+Content Type: image/png
+
+Uri: https://1wgtqa.life/img/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\1wgtqa.life\img\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://1wgtqa.life/img/icons/favicon-32x32-darkmode.png
+File Name: C:\Downloaded Web Sites\1wgtqa.life\img\icons\favicon-32x32-darkmode.png
+Content Type: image/png
+
+Uri: https://1wgtqa.life/img/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\1wgtqa.life\img\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://1wgtqa.life/img/icons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\1wgtqa.life\img\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://1wgtqa.life/img/logo/main/1win-normal.svg
+File Name: C:\Downloaded Web Sites\1wgtqa.life\img\logo\main\1win-normal.svg
+Content Type: image/svg+xml
+
+Uri: https://1win-cdn.com/css/index.7eff7789c.css
+File Name: C:\Downloaded Web Sites\1wgtqa.life\css\index.7eff7789c.css
+Content Type: text/css
+
+Uri: https://1win-cdn.com/font/SFNSDisplay-latin.50a4eaff3.woff2
+File Name: C:\Downloaded Web Sites\1wgtqa.life\font\SFNSDisplay-latin.50a4eaff3.woff2
+Content Type: application/octet-stream
+
+Uri: https://1win-cdn.com/font/SFNSText-latin.f09aa5229.woff2
+File Name: C:\Downloaded Web Sites\1wgtqa.life\font\SFNSText-latin.f09aa5229.woff2
+Content Type: application/octet-stream
+
+Uri: https://1win-cdn.com/js/chunk-common.6dff07b4d.js
+File Name: C:\Downloaded Web Sites\1wgtqa.life\js\chunk-common.6dff07b4d.js
+Content Type: application/javascript
+
+Uri: https://1win-cdn.com/js/chunk-vendors.6e8113a5d.js
+File Name: C:\Downloaded Web Sites\1wgtqa.life\js\chunk-vendors.6e8113a5d.js
+Content Type: application/javascript
+
+Uri: https://1win-cdn.com/js/index.bf654271b.js
+File Name: C:\Downloaded Web Sites\1wgtqa.life\js\index.bf654271b.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-KGKQDC7
+File Name: C:\Downloaded Web Sites\1wgtqa.life\ns.html
+Content Type: text/html
+
